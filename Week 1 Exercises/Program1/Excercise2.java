@@ -1,4 +1,4 @@
-package Program1;
+import java.lane.*;
 class Main
 {
     public static void main(String[] args)
